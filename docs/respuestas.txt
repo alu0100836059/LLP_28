@@ -1,1 +1,6 @@
 Trabajo en equipo con git
+
+	-Mientras que el proceso de compilacion genera un ejecutable, el de interpretación no lo hace.
+	-El proceso de compilación es mucho mas rapido que el de interpretación
+	-El proceso de compilacion genera un ejecutable que es dependiente de la maquina en la que se compilo (y para el cual esta destinado a ejecutarse), mientras que el proceso de interpretación no genera ejecutable, por lo tanto no esta ligado a una maquina en concreto.
+	-El proceso de compilacion genera un ejecutable que es independiente del codigo fuente, por lo que se puede esconder, mientras que el proceso de interpretación tiene una necesidad del codigo fuente.
